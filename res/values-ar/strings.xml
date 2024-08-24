@@ -388,7 +388,7 @@
 
 
     <string name="Season">"الموسم"</string>
-    <string name="The_next_season_begins">"يبدأ الموسم المقبل"</string>
+    <string name="The_next_season_begins">"يبدأ الموسم القادم"</string>
 
     <string name="Current">"الحالي"</string>
     <string name="leaves_">"الأوراق."</string>
@@ -409,7 +409,7 @@
     <string name="Enter_the_Arena">"دخول تحدي"</string>
 
 
-    <string name="Purchase_History">"سِجِل المشتريات"</string>
+    <string name="Purchase_History">"سِجِل المُشتريات"</string>
 
     <string name="Purchases_Unavailable_">"غير متوفر!"</string>
     <string name="You_can_purchase_this_skin_for">"يمكنك شراء هذه الصورة!"</string>
@@ -417,7 +417,7 @@
     <string name="Error_in_backup_data_">"خطأ في البيانات الاحتياطية!"</string>
 
 
-    <string name="Remove_Ads">"إزالة الاعلانات"</string>
+    <string name="Remove_Ads">"إزالة الإعلانات"</string>
     <string name="Reward">" مكافاة"</string>
     <string name="Please_Wait___">"الرجاء الإنتظار…"</string>
     <string name="Purchasing">"المشتريات"</string>
@@ -454,7 +454,7 @@
     <string name="View_Profile">"عرض الصفحة الشخصية"</string>
     <string name="Send_Message">"إرسال رسالة"</string>
     <string name="Account_ID">"رقم هوية الحساب"</string>
-    <string name="Player_Name">"اسم اللاعب"</string>
+    <string name="Player_Name">"إسم اللاعب"</string>
 
     <string name="Daily_Reward">"المكافأة اليومية"</string>
     <string name="Reset">"إعادة تعيين"</string>
