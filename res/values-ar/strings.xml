@@ -581,7 +581,7 @@
     <string name="Maximum_players_allowed_on_the_team_">"عدد اللاعبين الأقصى المسموح به في الفريق:"</string>
     <string name="Name_is_already_in_use_">"الاسم قيد الإستخدام بالفعل"</string>
     <string name="User_is_not_in_the_team_">"اللاعب ليس في الفريق."</string>
-    <string name="You_are_not_invited_to_team_">"لست مدعواً للفريق:"</string>
+    <string name="You_are_not_invited_to_team_">"لست مدعوإلى الفريق:"</string>
     <string name="Team_does_not_exist_">"لا وجود لهذا الفريق:"</string>
     <string name="Please_wait_a_minute_before_sending_another_report_">"يرجى الانتظار لمدة دقيقة قبل أن ترسل تقرير آخر."</string>
     <string name="Collect_1_000_beads_">"جمع 1000 من الكريات."</string>
@@ -1218,7 +1218,7 @@
     <string name="Play_Nebulous_For_1_Year_">ألعب نيبلوس لمُدَّة 1 سنة!</string>
     <string name="Play_Nebulous_For_X_Years_">العب نيبلوس لمُدَّة %d سنة!</string>
     <string name="Starting___">بدء…</string>
-    <string name="Tournament_Starting">البُطولة بدأءت</string>
+    <string name="Tournament_Starting">البُطولة بدأت</string>
     <string name="Max_Tilt_Angle_3D_">زاوية الميل القصوى ثلاثي الأبعاد</string>
     <string name="Mode_3D">وضع ثلاثي الأبعاد</string>
     <string name="Names_Below_Blobs">معلومات اللاعب تحت الدائرة</string>
